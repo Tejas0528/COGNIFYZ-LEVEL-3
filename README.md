@@ -4,7 +4,7 @@ This repository contains my task-wise submissions for the Data Science Internshi
 
 Each task focuses on specific real-world data science techniques applied to restaurant data
 
-#LEVEL 3
+LEVEL 3
 
  Task 1: Predictive Modeling
 
